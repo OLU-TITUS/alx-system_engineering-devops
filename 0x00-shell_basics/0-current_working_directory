@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
-echo "pwd" 
-=======
-pwd
->>>>>>> 3bec319ebcbe303f9c4bd48cb60f413ff357677a
+echo "pwd"
+The current working directory
